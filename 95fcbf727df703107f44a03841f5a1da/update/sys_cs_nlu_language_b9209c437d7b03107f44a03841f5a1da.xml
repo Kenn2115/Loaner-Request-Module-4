@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_nlu_language">
+    <sys_cs_nlu_language action="INSERT_OR_UPDATE">
+        <enabled>false</enabled>
+        <language display_value="Japanese">71209c437d7b03107f44a03841f5a1da</language>
+        <sys_class_name>sys_cs_nlu_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-12 08:00:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b9209c437d7b03107f44a03841f5a1da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">95fcbf727df703107f44a03841f5a1da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">95fcbf727df703107f44a03841f5a1da</sys_scope>
+        <sys_update_name>sys_cs_nlu_language_b9209c437d7b03107f44a03841f5a1da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-12 08:00:06</sys_updated_on>
+    </sys_cs_nlu_language>
+</record_update>
